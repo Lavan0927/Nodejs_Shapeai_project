@@ -1,2 +1,2 @@
 # Nodejs_Shapeai_project
-Created with CodeSandbox
+It's a project for the shapeAI node.js bootcamp
